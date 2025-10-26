@@ -1,4 +1,7 @@
-A little game first created during the HU University of Applied Sciences' Open-ICT Game Jam Herfstvakantie 2025.
+# Block Block!
+
+#### A little game first created during the Open-ICT Game Jam Herfstvakantie 2025.
+#### Created by Harald Warmelink from HU Utrecht University of Applied Sciences, the Netherlands.
 
 Made with Game Maker: https://gamemaker.io
 
