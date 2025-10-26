@@ -5,8 +5,8 @@
 
 Made with Game Maker: https://gamemaker.io
 
-Also made with Game Maker sprites from the 'Make your first platformer' tutorial: https://gamemaker.io/en/tutorials/your-first-platformer
-Used and redistributed here with permission. The maker of those sprites still have copyright.
+Also made with Game Maker sprites from the 'Make your first platformer' tutorial: https://gamemaker.io/en/tutorials/your-first-platformer.
+Used and redistributed here with permission. The maker of those sprites still has copyright and its own chosen license.
 
 Also made with the following audio effects:
 
