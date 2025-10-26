@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"explodingSolidsRelated",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"explodingSolidsRelated",
+  "parent":{
+    "name":"Scripts",
+    "path":"folders/Scripts.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

@@ -1,0 +1,28 @@
+{
+  "$GMSound":"",
+  "%Name":"oooh22",
+  "audioGroupId":{
+    "name":"audiogroup_default",
+    "path":"audiogroups/audiogroup_default",
+  },
+  "bitDepth":1,
+  "bitRate":128,
+  "compression":0,
+  "conversionMode":0,
+  "duration":2.1882312,
+  "name":"oooh22",
+  "parent":{
+    "name":"ooohs",
+    "path":"folders/Sounds/ooohs.yy",
+  },
+  "preload":false,
+  "resourceType":"GMSound",
+  "resourceVersion":"2.0",
+  "sampleRate":44100,
+  "soundFile":"oooh22.mp3",
+  "tags":[
+    "oooh",
+  ],
+  "type":0,
+  "volume":1.0,
+}

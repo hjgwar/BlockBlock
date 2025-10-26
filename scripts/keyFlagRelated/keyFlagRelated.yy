@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"keyFlagRelated",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"keyFlagRelated",
+  "parent":{
+    "name":"Scripts",
+    "path":"folders/Scripts.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

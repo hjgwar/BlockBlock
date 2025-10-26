@@ -1,0 +1,1 @@
+iExplodingSolid = noone

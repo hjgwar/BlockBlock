@@ -1,0 +1,28 @@
+{
+  "$GMSound":"",
+  "%Name":"oooh19",
+  "audioGroupId":{
+    "name":"audiogroup_default",
+    "path":"audiogroups/audiogroup_default",
+  },
+  "bitDepth":1,
+  "bitRate":128,
+  "compression":0,
+  "conversionMode":0,
+  "duration":1.9237188,
+  "name":"oooh19",
+  "parent":{
+    "name":"ooohs",
+    "path":"folders/Sounds/ooohs.yy",
+  },
+  "preload":false,
+  "resourceType":"GMSound",
+  "resourceVersion":"2.0",
+  "sampleRate":44100,
+  "soundFile":"oooh19.mp3",
+  "tags":[
+    "oooh",
+  ],
+  "type":0,
+  "volume":1.0,
+}
