@@ -4,6 +4,7 @@
 #### Created by Harald Warmelink from HU Utrecht University of Applied Sciences, the Netherlands.
 
 Made with Game Maker: https://gamemaker.io
+Specifically with IDE version 2024.13.1.193, runtime version 2024.13.1.242. (October 26, 2025)
 
 Also made with Game Maker sprites from the 'Make your first platformer' tutorial: https://gamemaker.io/en/tutorials/your-first-platformer.
 Used and redistributed here with permission. The maker of those sprites still has copyright and its own chosen license.
